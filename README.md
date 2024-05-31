@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+</a>
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</div>
+
+<div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroHdSO/pedroHdSO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroHdSO/pedroHdSO/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedroHdSO/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
+
+  
+</div>
